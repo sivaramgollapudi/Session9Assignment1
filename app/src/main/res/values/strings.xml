@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Session9Assignment1 - Menu</string>
+    <string name="main_menu">Text Color</string>
+    <string name="menu_item_red">Red</string>
+    <string name="menu_item_green">Green</string>
+    <string name="menu_item_blue">Blue</string>
+    <string name="home_page_title">Session 9 Assignment 1 - Option Menu</string>
+</resources>
